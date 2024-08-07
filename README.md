@@ -40,7 +40,3 @@ The model categorizes comments into 5 categories, achieving an accuracy rate of 
 ## Contact
 
 For any inquiries or contributions, please reach out via [GitHub Issues](https://github.com/Gnyanikasula/Hate_speech/issues).
-
----
-
-Feel free to modify any part of this draft to better suit your needs.
